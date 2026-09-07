@@ -394,4 +394,4 @@ void ImprimirTicket(int tiempo, float monto, int espacios, int d_in, int m_in, i
 	printf("Presione Enter para continuar...\n");
 	system("pause");
 }
-//proyecto finalizado para posterior mejora e implementacion en un formato fisico de parqueadero en maqueta a pequeña escala 
+//proyecto previo para posterior mejora e implementacion en un formato fisico de parqueadero en maqueta a pequeña escala 
